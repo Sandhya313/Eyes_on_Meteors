@@ -1,0 +1,28 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/60267_next_dist_230de94f._.js",
+      "static/chunks/demoMeteor_src_app_favicon_ico_mjs_928206f1._.js",
+      "static/chunks/demoMeteor_src_app_globals_d69a7d27.css",
+      "static/chunks/60267_b6136393._.js",
+      "static/chunks/demoMeteor_src_265ccd8d._.js",
+      "static/chunks/demoMeteor_src_app_layout_tsx_dc0c24a3._.js",
+      "static/chunks/60267_next_dist_client_components_builtin_global-error_bb5eb298.js",
+      "static/chunks/demoMeteor_src_929dcd36._.js",
+      "static/chunks/60267_three_build_three_module_35f6c98f.js",
+      "static/chunks/60267_three_examples_jsm_controls_OrbitControls_dde285a6.js",
+      "static/chunks/60267_framer-motion_dist_es_59ff996d._.js",
+      "static/chunks/60267_1ae74346._.js",
+      "static/chunks/demoMeteor_src_app_page_tsx_bb5eb298._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_681c5b95._.js",
+      "static/chunks/60267_next_dist_compiled_react-dom_9ba5812f._.js",
+      "static/chunks/60267_next_dist_compiled_next-devtools_index_892dcb75.js",
+      "static/chunks/60267_next_dist_compiled_13f80321._.js",
+      "static/chunks/60267_next_dist_client_33b9eb1c._.js",
+      "static/chunks/60267_next_dist_c1c11bbe._.js",
+      "static/chunks/60267_@swc_helpers_cjs_81a8d54b._.js",
+      "static/chunks/demoMeteor_a0ff3932._.js",
+      "static/chunks/turbopack-demoMeteor_0cbcb9ce._.js"
+    ]
+  }
+}
